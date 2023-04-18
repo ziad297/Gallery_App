@@ -1,0 +1,11 @@
+<paths>
+    <!-- Access to the Pictures directory -->
+    <external-path
+        name="external_files"
+        path="Pictures/" />
+
+    <!-- Access to the DCIM directory -->
+    <external-path
+        name="external_files"
+        path="DCIM/" />
+</paths>
